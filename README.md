@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ramsesfopi-nfv
-- 👀 I’m interested in Networking and Security 
+- 👋 Hi, I’m Ramses Fopi 
+- 👀 I’m interested in Network Security and virtualization 
 - 🌱 I’m currently learning system administration 
 - 💞️ I’m looking to collaborate on open projects in Network and system admin,  NFV and SDN
 - 📫 How to reach me : ramsesfopi@gmail.com or WhatsApp 237675889449
