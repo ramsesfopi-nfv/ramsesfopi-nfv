@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramses Fopi 
-- 👀 I’m interested in Network Security and virtualization 
-- 🌱 I’m currently learning system administration 
-- 💞️ I’m looking to collaborate on open projects in Network and system admin,  NFV and SDN
+- 👀 I’m an IT support Engineer
+- 🌱 I’m opened to learn and share my experience 
+- 💞️ Few months ago I started offering IT project management consultancy services
 - 📫 How to reach me : ramsesfopi@gmail.com or WhatsApp 237675889449
 
 <!---
